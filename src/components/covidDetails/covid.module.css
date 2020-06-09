@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans&family=Oswald:wght@500&display=swap');
+
+.covidContainer{
+    width: 80%;
+}
+h2{
+    text-align: center;
+    color: rgb(216, 65, 5);
+    font-family: 'Oswald', sans-serif;
+}
+
+p{
+    font-family: 'Balsamiq Sans', cursive;
+}

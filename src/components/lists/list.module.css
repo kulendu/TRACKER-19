@@ -1,0 +1,20 @@
+
+.container{
+    margin:30px 0;
+    max-width: 400px;
+}
+
+.cards{
+    margin: 0 2% !important; 
+
+}
+
+.media{
+    height: 155px;
+}
+
+@media (max-width:770px){
+    .cards{
+        size: small;
+    }
+}
