@@ -60,7 +60,7 @@ class App extends React.Component {
                 <img src={stayHome} className={styles.stayHome} alt="stayHome"/>
                 <p>We stand with everyone standing in the frontier <br />and fighting against the COVID-19 pandemic. </p>
                 <p className={styles.footer}> Developed by : @kulendu, 2020</p>
-                <a href="https://github.com/" target="blank">
+                <a href="https://github.com/kulendu/covid-tracker-project" target="blank">
                     <img className={styles.button} src={githubButton} alt="github button" />
                 </a>
             </div>    
