@@ -1,6 +1,18 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# WORLD-COVID-TRACKER :
+![app-screenshot-1](https://raw.githubusercontent.com/kulendu/covid-tracker-project/master/src/images/Screenshot%20from%202020-06-10%2012-01-23.png)
 
-## Available Scripts
+![app-screenshot-2](https://raw.githubusercontent.com/kulendu/covid-tracker-project/master/src/images/Screenshot%20from%202020-06-10%2012-01-46.png)
+
+[LIVE SITE](https://festive-wing-0ea09a.netlify.app/)
+
+# INTRODUCTION :
+This is the code repository for the world-covid-tracker app.This app has been created using React, and all the styling are done using Material-ui, Chart.js.
+All the data are being used from the API : https://covid19.mathdro.id/api.
+
+It invloves all the core react concepts like - hooks, state, react-effects and many more.
+
+
+## SETUP :
 
 In the project directory, you can run:
 
