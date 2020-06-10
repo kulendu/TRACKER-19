@@ -11,6 +11,8 @@ All the data are being used from the API : https://covid19.mathdro.id/api.
 
 It invloves all the core react concepts like - hooks, state, react-effects and many more.
 
+And also this project has been deployed using netlify
+
 
 ## SETUP :
 
