@@ -3,7 +3,7 @@
 
 ![app-screenshot-2](https://raw.githubusercontent.com/kulendu/covid-tracker-project/master/src/images/Screenshot%20from%202020-06-10%2012-01-46.png)
 
-[LIVE SITE](https://festive-wing-0ea09a.netlify.app/)
+[LIVE SITE](https://ecstatic-curie-8eccb7.netlify.app/)
 
 # INTRODUCTION :
 This is the code repository for the world-covid-tracker app.This app has been created using React, and all the styling are done using Material-ui, Chart.js.
