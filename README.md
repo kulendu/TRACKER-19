@@ -1,4 +1,4 @@
-# `WORLD-COVID-TRACKER` :
+# `WORLD-COVID-TRACKER` 
 ![app-screenshot-1](https://raw.githubusercontent.com/kulendu/covid-tracker-project/master/src/images/Screenshot%20from%202020-06-10%2012-01-23.png)
 
 ![app-screenshot-2](https://raw.githubusercontent.com/kulendu/covid-tracker-project/master/src/images/Screenshot%20from%202020-06-10%2012-01-46.png)
