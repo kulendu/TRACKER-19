@@ -27,3 +27,5 @@ The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/kulendu/covid-tracker-project)
+
+Also it had been licensed under the [MIT License](https://github.com/kulendu/covid-tracker-project/blob/master/LICENSE)
